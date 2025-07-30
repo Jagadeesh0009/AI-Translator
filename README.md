@@ -9,13 +9,13 @@ An advanced AI-powered web application for seamless English-Tamil translation bu
 ### 1. Main Application Interface
 
 
-![Screenshot of the main Streamlit application interface](1.png)
+![Screenshot of the main Streamlit application interface](jd.png)
 *A brief description of what this screenshot shows, e.g., "The main input field where users can type their questions."*
 
 ### 2. Example Interaction
 
 
-![Screenshot of an example question and answer](2.png)
+![Screenshot of an example question and answer](jd2.png)
 *A brief description of what this screenshot shows, e.g., "An example of a user question and the Gemma model's generated response."*
 ## ✨ Features
 

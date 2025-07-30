@@ -6,9 +6,17 @@ An advanced AI-powered web application for seamless English-Tamil translation bu
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## 🚀 Live Demo
-**[🔗 Try the AI Translator Live](https://ai-translator-jagadeesh0009.streamlit.app)**
+### 1. Main Application Interface
 
+
+![Screenshot of the main Streamlit application interface](1.png)
+*A brief description of what this screenshot shows, e.g., "The main input field where users can type their questions."*
+
+### 2. Example Interaction
+
+
+![Screenshot of an example question and answer](2.png)
+*A brief description of what this screenshot shows, e.g., "An example of a user question and the Gemma model's generated response."*
 ## ✨ Features
 
 - 🔄 **Real-time AI Translation** - Bidirectional English ↔ Tamil translation
